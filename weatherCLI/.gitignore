@@ -1,9 +1,9 @@
-# Python cache files
+# Python
 __pycache__/
 *.pyc
 
-# Environment file
-.env
-
-# IDE files
+# VS Code
 .vscode/
+
+# Environment / sensitive files
+.env
