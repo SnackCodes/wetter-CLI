@@ -1,1 +1,0 @@
-print("Hello! This is my Weather CLI project.")
